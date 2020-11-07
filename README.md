@@ -1,11 +1,5 @@
 # How to ScreenShare for multiple people on MS Teams :woman_technologist:
 
-## Table of Contents :label:
-
-- [About](#about)
-- [Getting Started](#start)
-- [Installation & Configuration](#config)
-
 ## About <a name = "about"></a> :page_facing_up:
 
 Since MS Teams doesn't support mutiple people sharing their screens and nobody really wants to just use a webcam to share their face or are conserned about recording the call if they do. We should instead use free and open source tool [OBS](https://obsproject.com/). There are many other software that are capble of doing "virtual webcam" just google this term if obs doesn't work or you want to use something else.
