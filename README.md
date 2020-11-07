@@ -1,10 +1,10 @@
 # How to ScreenShare for multiple people on MS Teams :woman_technologist:
 
-## About <a name = "about"></a> :page_facing_up:
+## About :page_facing_up:
 
-Since MS Teams doesn't support multiple people sharing their screens and nobody really wants to just use a webcam to share their face or are concerned about recording the call if they do. We should instead use free and open source tool [OBS](https://obsproject.com/). There exist other software that is capable of doing "virtual webcam" just google this term if obs doesn't work or you want to use something else.
+Since MS Teams doesn't support multiple people sharing their screens and nobody really wants to just use a webcam to share their face or are concerned about recording the call if they do. We should instead use free and open source tool [OBS](https://obsproject.com/). There exist other software that is capable of doing "virtual webcam" just google this term if OBS doesn't work or you want to use something else.
 
-## Prerequisites <a name = "start"></a> :computer:
+## Prerequisites :computer:
 
 To get started you first will need to go download: [OBS](https://obsproject.com/).
 
@@ -12,7 +12,7 @@ And you will also need desktop version of [Teams](https://www.microsoft.com/en-u
 
 I won't show you how to install MS Teams. :upside_down_face:
 
-### Installing & Configuring <a name = "config"></a> :file_folder:
+### Installing & Configuring :file_folder:
 
 First download OBS by choosing windows, clicking on the installer and click next until it's installed.
 ![alt text](img/1.png)
