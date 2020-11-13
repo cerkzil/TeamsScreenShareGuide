@@ -20,11 +20,8 @@ First, download OBS by choosing Windows, clicking on the installer, and click ne
 After you launched OBS for the first time, you will be greeted with the auto-configuration wizard; just pick the virtual camera option and apply.
 ![alt text](img/2.png)
 
-Now, you want to add a source; you have two main choices: Display Capture - for full screen sharing, and Windows Capture: for specific window capture. For now, just select "Display Capture" and click "OK."
+Now, you want to add a source; you have two main choices: Display Capture - for full screen sharing, and Windows Capture: for specific window capture. For now, just select "Display Capture" and click "OK." After we do all of that, we just click "Start Virtual Camera" and open MS Teams.
 ![alt text](img/3.png)
-
-A couple of more things: MS Teams flips the camera horizontally, so we should flip the source horizontally, too. Right click on "Display Capture > Transform > Flip Horizontally. "After we do all of that, we just click "Start Virtual Camera" and open MS Teams.
-![alt text](img/4.png)
 
 Now, in MS Teams, open settings and select the current camera; if it's working, you should see a preview! :partying_face:
 ![alt text](img/5.png)
